@@ -8,6 +8,9 @@ export default function Home() {
       <li>
         <Link href="/username-password">Username Password</Link>
       </li>
+      <li>
+        <Link href="/username-password-flow">Username Password Flow</Link>
+      </li>
     </ul>
   </div>
   );
